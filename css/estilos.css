@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 10px;
+    box-sizing: border-box;
+}
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+.logo h2 { font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-weight: 70;
+padding: 20px;
+margin-left: 10px;
+color: aliceblue;}
+   
+hr { color: rgb(169, 174, 178);
+    border: 1px solid;
+    
+}
+    .titulo h2 {
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        text-align: center;
+        font-size: 70px;
+        color: blanchedalmond;
+        padding-left: 30px;
+    }
+    .subtitulo{ text-align: center;}
+
+.menu {
+    display: flex;
+    justify-content: flex-end;
+    top: px;
+    
+}
+nav a{
+    color: blanchedalmond;
+    font-size: 15px;
+    margin-right: 10px;
+    justify-content: center;
+    
+}
+.container-footer { 
+    text-align: end;
+    justify-content: flex-end;
+}
+.linea hr  { 
+   
+
+  z-index: calc(20);
+    position: absolute;
+}
+    
+.d-flex p { font-family: cursive;}
+    
+
+
+    
+
+
+
+
